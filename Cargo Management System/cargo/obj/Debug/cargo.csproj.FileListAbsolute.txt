@@ -1,0 +1,80 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\bin\Debug\cargo.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\bin\Debug\cargo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.cust_details.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.trans_details.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\cargo\cargo\obj\Debug\cargo.trans_details_del_.resources
+E:\cargo\cargo\obj\Debug\cargo.exe
+E:\cargo\cargo\obj\Debug\cargo.pdb
+E:\cargo\cargo\bin\Debug\cargo.exe
+E:\cargo\cargo\bin\Debug\cargo.pdb
+E:\cargo\cargo\obj\Debug\ResolveAssemblyReference.cache
+E:\cargo\cargo\obj\Debug\cargo.cust_details.resources
+E:\cargo\cargo\obj\Debug\cargo.Form1.resources
+E:\cargo\cargo\obj\Debug\cargo.Form2.resources
+E:\cargo\cargo\obj\Debug\cargo.Properties.Resources.resources
+E:\cargo\cargo\obj\Debug\cargo.trans_details_del_.resources
+E:\cargo\cargo\obj\Debug\cargo.trans_details.resources
+E:\cargo\cargo\obj\Debug\cargo.csproj.GenerateResource.Cache
+E:\cargo\cargo\obj\Debug\cargo.trans_details_view_.resources
+E:\cargo\cargo\obj\Debug\cargo.trans_detais_edit_.resources
+E:\cargo\cargo\obj\Debug\cargo.bill_report.resources
+E:\cargo\cargo\obj\Debug\cargo.enquiry.resources
+E:\cargo\cargo\obj\Debug\cargo.bill.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.exe
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.pdb
+E:\vb.net projects\cargo\cargo\obj\Debug\ResolveAssemblyReference.cache
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.bill_report.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.bill.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.cust_details.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.enquiry.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.Form1.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.Form2.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.Properties.Resources.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.trans_details_del_.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.trans_details_view_.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.trans_details.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.trans_detais_edit_.resources
+E:\vb.net projects\cargo\cargo\obj\Debug\cargo.csproj.GenerateResource.Cache
+E:\vb.net projects\cargo\cargo\bin\Debug\cargo.exe
+E:\vb.net projects\cargo\cargo\bin\Debug\cargo.pdb
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.exe
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.pdb
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\bin\Debug\cargo.exe
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\bin\Debug\cargo.pdb
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.csproj.AssemblyReference.cache
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.bill_report.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.bill.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.cust_details.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.enquiry.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.Form1.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.Form2.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.Properties.Resources.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.trans_details_del_.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.trans_details_view_.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.trans_details.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.trans_detais_edit_.resources
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.csproj.GenerateResource.cache
+C:\Users\bukka\OneDrive\Desktop\Cargo Management System\cargo\obj\Debug\cargo.csproj.CoreCompileInputs.cache
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.csproj.AssemblyReference.cache
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.bill_report.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.bill.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.cust_details.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.enquiry.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.Form1.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.Form2.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.Properties.Resources.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.trans_details_del_.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.trans_details_view_.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.trans_details.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.trans_detais_edit_.resources
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.csproj.GenerateResource.cache
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.csproj.CoreCompileInputs.cache
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.exe
+C:\Users\kloke\OneDrive\Desktop\Cargo Management System\Cargo Management System\cargo\obj\Debug\cargo.pdb
